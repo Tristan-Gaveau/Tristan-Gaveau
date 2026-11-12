@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Tristan GAVEAU — Aerospace · Defense · Systems"/>
+<img src="./banner.svg" width="100%" alt="Tristan GAVEAU — Aeronautic · Defense · Systems"/>
 
 <br/>
 <br/>
@@ -22,7 +22,7 @@
 ```
   FORMATION   │  Ingénierie — Pôle Léonard de Vinci (ESILV)
   LOCALISATION│  Courbevoie, Île-de-France, 🇫🇷
-  DOMAINES    │  Aérospatial · Structures · Défense · Mécatronique
+  DOMAINES    │  Aérospatial · Défense 
   STATUT      │  [ACTIF] — Étudiant ingénieur
 ```
 
@@ -38,6 +38,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0d1b2e?style=for-the-badge&logo=python&logoColor=c5d4e8)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2e?style=for-the-badge&logo=jupyter&logoColor=c5d4e8)
+![C++](
 
 **— Librairies scientifiques —**
 
@@ -52,6 +53,19 @@
 ![Abaqus](https://img.shields.io/badge/Abaqus_FEA-0d1b2e?style=for-the-badge&logoColor=c5d4e8)
 ![Git](https://img.shields.io/badge/Git-0d1b2e?style=for-the-badge&logo=git&logoColor=c5d4e8)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1b2e?style=for-the-badge&logo=visualstudiocode&logoColor=c5d4e8)
+![OpenRocket]()
+![ANSYS]()
+![CodeAster]()
+![OpenFOAM]()
+![
+
+**— CAO —**
+
+![SolidWorks]()
+![CATIA V5]()
+![Onshape]()
+![Fusion360]()
+
 
 </div>
 
