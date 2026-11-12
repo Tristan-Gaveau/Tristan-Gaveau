@@ -74,7 +74,7 @@
 
 ---
 
-## `> OPÉRATIONS ACTIVES`
+## `> PERSONAL PROJECTS`
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 | 🔧 **[predictive-maintenance-RUL](https://github.com/Tristan-Gaveau/predictive-maintenance-RUL)** | Prédiction de la durée de vie utile (RUL) — maintenance prédictive pour systèmes aéronautiques | `Python` `ML` `Jupyter` |
 | ✈️ **[airfoil-analysis](https://github.com/Tristan-Gaveau/airfoil-analysis)** | Analyse aérodynamique de profils d'ailes — calcul des coefficients portance/traînée | `Python` `NumPy` |
 | 🏗️ **[vibration-multiaxe](https://github.com/Tristan-Gaveau/vibration-multiaxe)** | Analyse des vibrations multiaxiales sur structures embarquées | `Python` `Signal` |
-| 📐 **[plaque-trouee-abaqus](https://github.com/Tristan-Gaveau/plaque-trouee-abaqus)** | Simulation FEA de plaques trouées sous contrainte mécanique | `Abaqus` `Python` |
+| 📐 **[plaque-trouee-abaqus](https://github.com/Tristan-Gaveau/plaque-trouee-abaqus)** | Simulation FEA de plaques trouées sous contrainte mécanique | `Abaqus` `Python` `Hypermesh` |
 
 </div>
 
