@@ -17,7 +17,7 @@
 
 ## `> BRIEFING`
 
-Étudiant ingénieur à l'**ESILV — Pôle Léonard de Vinci**, passionné par la mécanique des structures, les systèmes embarqués et l'ingénierie de défense. Je conçois des outils d'analyse numérique pour des problématiques aérospatiales : dynamique des structures, maintenance prédictive, fusion de capteurs.
+Étudiant ingénieur à l'**ESILV — Pôle Léonard de Vinci**, passionné par la mécanique des structures et l'ingénierie de défense. Je conçois des outils d'analyse numérique pour des problématiques aérospatiales : dynamique des structures, maintenance prédictive, fusion de capteurs.
 
 ```
   FORMATION   │  Ingénierie — Pôle Léonard de Vinci (ESILV)
