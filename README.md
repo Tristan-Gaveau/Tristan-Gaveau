@@ -5,8 +5,8 @@
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tristan%20Gaveau-0d1b2e?style=for-the-badge&logo=linkedin&logoColor=c5d4e8&labelColor=0d1b2e)](https://www.linkedin.com/in/tristan-gaveau)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-0d1b2e?style=for-the-badge&logo=gmail&logoColor=c5d4e8&labelColor=0d1b2e)](mailto:tristan.gaveau@edu.devinci.fr)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2e?style=for-the-badge&logo=linkedin&logoColor=c5d4e8&labelColor=0d1b2e)](https://www.linkedin.com/in/tristan-gaveau)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1b2e?style=for-the-badge&logo=gmail&logoColor=c5d4e8&labelColor=0d1b2e)](mailto:tristan.gaveau@edu.devinci.fr)&nbsp;
 [![Location](https://img.shields.io/badge/Paris,_France-0d1b2e?style=for-the-badge&logoColor=c5d4e8&labelColor=0d1b2e)](https://github.com/Tristan-Gaveau)
 
 </div>
