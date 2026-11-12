@@ -38,7 +38,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0d1b2e?style=for-the-badge&logo=python&logoColor=c5d4e8)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2e?style=for-the-badge&logo=jupyter&logoColor=c5d4e8)
-![C++](
+![C++](https://img.shields.io/badge/C%2B%2B-0d1b2e?style=for-the-badge&logo=cplusplus&logoColor=c5d4e8)
 
 **— Librairies scientifiques —**
 
@@ -47,24 +47,25 @@
 ![Pandas](https://img.shields.io/badge/Pandas-0d1b2e?style=for-the-badge&logo=pandas&logoColor=c5d4e8)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1b2e?style=for-the-badge&logo=python&logoColor=c5d4e8)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-0d1b2e?style=for-the-badge&logo=scikit-learn&logoColor=c5d4e8)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1b2e?style=for-the-badge&logo=opencv&logoColor=c5d4e8)
 
 **— Simulation & Outils —**
 
-![Abaqus](https://img.shields.io/badge/Abaqus_FEA-0d1b2e?style=for-the-badge&logoColor=c5d4e8)
+![Abaqus](https://img.shields.io/badge/Abaqus_FEA-0d1b2e?style=for-the-badge&logo=dassaultsystemes&logoColor=c5d4e8)
 ![Git](https://img.shields.io/badge/Git-0d1b2e?style=for-the-badge&logo=git&logoColor=c5d4e8)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1b2e?style=for-the-badge&logo=visualstudiocode&logoColor=c5d4e8)
-![OpenRocket]()
-![ANSYS]()
-![CodeAster]()
-![OpenFOAM]()
-![
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1b2e?style=for-the-badge&logo=mathworks&logoColor=c5d4e8)
+![OpenRocket](https://img.shields.io/badge/OpenRocket-0d1b2e?style=for-the-badge)
+![ANSYS](https://img.shields.io/badge/ANSYS-0d1b2e?style=for-the-badge&logo=ansys&logoColor=c5d4e8)
+![Code_Aster](https://img.shields.io/badge/Code__Aster-0d1b2e?style=for-the-badge)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-0d1b2e?style=for-the-badge)
 
 **— CAO —**
 
-![SolidWorks]()
-![CATIA V5]()
-![Onshape]()
-![Fusion360]()
+![SolidWorks](https://img.shields.io/badge/SolidWorks-0d1b2e?style=for-the-badge&logo=dassaultsystemes&logoColor=c5d4e8)
+![CATIA V5](https://img.shields.io/badge/CATIA_V5-0d1b2e?style=for-the-badge&logo=dassaultsystemes&logoColor=c5d4e8)
+![Onshape](https://img.shields.io/badge/Onshape-0d1b2e?style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0d1b2e?style=for-the-badge&logo=autodesk&logoColor=c5d4e8)
 
 
 </div>
