@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Tristan GAVEAU — Aeronautic · Defense · Systems"/>
+<img src="./banner.svg" width="100%" alt="Tristan GAVEAU — Aeronautique · Défense · Systèmes"/>
 
 <br/>
 <br/>
@@ -15,7 +15,7 @@
 
 ---
 
-## `> BRIEFING`
+## `> RESUME`
 
 Étudiant ingénieur à l'**ESILV — Pôle Léonard de Vinci**, passionné par l'aéronautique et la défense. Je conçois des outils d'analyse numérique pour des problématiques de défense : dynamique des structures, fusion de capteurs, étude aérodynamique, traitement d'image.
 
