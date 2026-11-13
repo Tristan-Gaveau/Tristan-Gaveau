@@ -74,7 +74,7 @@
 
 ---
 
-## `> PERSONAL PROJECTS`
+## `> PROJETS`
 
 <div align="center">
 
