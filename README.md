@@ -82,9 +82,10 @@
 |:-------|:------------|:------|
 | 🛸 **[drone-detection-fusion](https://github.com/Tristan-Gaveau/drone-detection-fusion)** | Fusion de capteurs angulaires pour la détection de drones — filtres de Kalman 1D & 3D, visualisation 3D | `Python` `Kalman` `SciPy` |
 | 🔧 **[predictive-maintenance-RUL](https://github.com/Tristan-Gaveau/predictive-maintenance-RUL)** | Prédiction de la durée de vie utile (RUL) — maintenance prédictive pour systèmes aéronautiques | `Python` `ML` `Jupyter` |
-| ✈️ **[airfoil-analysis](https://github.com/Tristan-Gaveau/airfoil-analysis)** | Analyse aérodynamique de profils d'ailes — calcul des coefficients portance/traînée | `Python` `NumPy` |
+| ✈️ **[airfoil-analysis](https://github.com/Tristan-Gaveau/airfoil-analysis)** | Analyse aérodynamique de profils d'ailes — calcul des coefficients portance/traînée | `Python` `NumPy` `Fusion360`|
 | 🏗️ **[vibration-multiaxe](https://github.com/Tristan-Gaveau/vibration-multiaxe)** | Analyse des vibrations multiaxiales sur structures embarquées | `Python` `Signal` |
 | 📐 **[plaque-trouee-abaqus](https://github.com/Tristan-Gaveau/plaque-trouee-abaqus)** | Simulation FEA de plaques trouées sous contrainte mécanique | `Abaqus` `Python` `Hypermesh` |
+| 📐 **[ct-fracture-abaqus](https://github.com/Tristan-Gaveau/ct-fracture-abaqus)** | Calcul du facteur d'intensité de contrainte K sur une éprouvette CT et prédiction de durée de vie en propagation | `Abaqus` `Python` |
 
 </div>
 
